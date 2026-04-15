@@ -11,12 +11,12 @@ Computer Science Student | Future Game Developer
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a **Computer Science Student**
-- 💻 I'm learning and building projects with **C++ , PHP , HTML**
-- 🚀 I enjoy programming and improving my coding skills
-- 🧠 Currently learning more about **problem solving and backend development**
-- 🛠 I have built **small programming projects**
-- 🎯 My goal is to become a **Game and Web Dev.**
+- 🎓 I'm a **Computer Science Student**.
+- 💻 I'm learning and building projects with **C++ , PHP , HTML , Python**.
+- 🚀 I enjoy programming and improving my coding skills.
+- 🧠 Currently learning more about **machine learning and backend development**.
+- 🛠 I have built **small programming projects**.
+- 🎯 My goal is to become a **Game Dev. and Machine Learning Engineer**.
 
 ---
 
@@ -24,7 +24,7 @@ Computer Science Student | Future Game Developer
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,php,html,git,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,php,html,git,vscode" />
 </a>
 </p>
 
